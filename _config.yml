@@ -23,7 +23,7 @@ author_image: "/assets/images/author.jpg"
 paginate:	5
 
 url: "arobertson38.github.io/mediatorTESTING/" # the base hostname & protocol for your site
-baseurl: ""
+baseurl: "arobertson38.github.io/mediatorTESTING/"
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
 
